@@ -1,0 +1,16 @@
+
+.codegpt
+node_modules
+backend/target/
+uploads/
+backend/target/
+*.class
+*.jar
+backend/target/
+uploads/
+*.class
+*.jar
+*.war
+node_modules/
+dist/
+build/
